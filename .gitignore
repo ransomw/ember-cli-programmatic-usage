@@ -1,2 +1,4 @@
 *~
 node_modules/
+test-a/bower_components/
+dist/
