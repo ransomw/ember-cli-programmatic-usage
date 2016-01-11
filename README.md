@@ -3,7 +3,7 @@
 This repository might serve to document how (ember-cli)[http://ember-cli.com/]
 can be consumed by other build systems to support alternative project structures.
 
-[consumption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg/261px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
+![consumption](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg/261px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg)
 
 ##### status: broken
 
