@@ -1,0 +1,14 @@
+// -*-js2-*-
+
+var cli = require('ember-cli');
+var exit = require('exit');
+
+cli({
+  cliArgs: ['build'],
+  inputStream: process.stdin,
+  outputStream: process.stdout,
+  errorStream: process.stderr
+}).then(function(result) {
+  var exitCode = typeof result === 'object' ? result.exitCode : result;
+  exit(exitCode);
+});
